@@ -1,0 +1,27 @@
+.content__finish {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.finish__text {
+  font-size: 42px;
+  margin-bottom: 20px;
+  color: #05311a;
+}
+
+.finish__upload {
+  width: 20%;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.finish__details {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #05311a;
+}
+
+.finish__image {
+  margin-top: -125px;
+}

@@ -1,0 +1,38 @@
+.topbar {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.topbar__logo {
+  width: 546px;
+  opacity: 1;
+  display: flex;
+}
+
+.logo {
+  margin-top: 76px;
+  height: 78px;
+  opacity: 1;
+  cursor: pointer;
+}
+
+.topbar__menu {
+  width: 100%;
+  opacity: 1;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.topbar__button {
+  margin-top: 28px;
+  margin-right: 5px;
+  font-size: 20px;
+  padding: 0 10px;
+  height: 31px;
+  border: 2px solid #05311a;
+  color: #05311a;
+  background-color: #1dea7d;
+  border-radius: 15px;
+  cursor: pointer;
+  opacity: 1;
+}

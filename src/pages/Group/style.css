@@ -1,0 +1,53 @@
+.content__group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.group__text {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #05311a;
+}
+
+.group__student {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.student__name,
+.student__room,
+.student__year {
+  padding: 4px;
+  font-size: 20px;
+  color: #05311a;
+
+}
+
+.student__number {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.student__name {
+  width: 430px;
+  height: 45px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #257512;
+  border-radius: 7px;
+  opacity: 0.72;
+  margin-right: 10px;
+}
+
+.student__room,
+.student__year {
+  width: 107px;
+  height: 45px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #257512;
+  border-radius: 7px;
+  opacity: 0.72;
+  margin-right: 10px;
+}
