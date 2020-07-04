@@ -31,7 +31,7 @@ export default function Challenge(props) {
             </p>
             <Link to="/">
               <button className="button" onClick={handleOnClick}>
-                Confirmar
+                Aceitar Desafio
               </button>
             </Link>
           </div>

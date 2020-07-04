@@ -26,7 +26,7 @@ export default function Finish(props) {
 
       <Link to="/parabens">
         <button className="button" onClick={handleOnClick}>
-          Confirmar
+          Enviar
         </button>
       </Link>
     </div>
