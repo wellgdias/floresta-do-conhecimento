@@ -10,10 +10,18 @@ Embasada em jogos de RPG, na qual os jogadores criam narrativas colaborativament
 
 ![Floresta do Conhecimento](https://user-images.githubusercontent.com/47192417/86540339-daba1e80-beda-11ea-87b3-a3317d36f49c.png)
 
+# Tecnologias
+Na construção da Floresta do Conhecimento foram utilizadas as seguintes tecnologias:
+ - React
+ - React Hooks
+ - React Router DOM
+
+
 # Instalação
 > Antes de realizar o clone do projeto e fazer a instalação, certifique-se que o Node.js e o NPM estejam instalados na sua máquina.
 ````
-git clone https://github.com/wellgdias/codenation-challenge-fashionista.git
+git clone https://github.com/wellgdias/floresta-do-conhecimento.git
+
 ````
 #### Instalar as dependências
 ````
