@@ -8,8 +8,7 @@ Embasada em jogos de RPG, na qual os jogadores criam narrativas colaborativament
  - Promover ambientes não competitivos
  - Incentivo á leitura através da autonomia 
 
-![Floresta do Conhecimento](https://user-images.githubusercontent.com/47192417/86540236-ff61c680-bed9-11ea-9316-615db833c517.png)
-
+![Floresta do Conhecimento](https://user-images.githubusercontent.com/47192417/86540339-daba1e80-beda-11ea-87b3-a3317d36f49c.png)
 
 # Instalação
 > Antes de realizar o clone do projeto e fazer a instalação, certifique-se que o Node.js e o NPM estejam instalados na sua máquina.
