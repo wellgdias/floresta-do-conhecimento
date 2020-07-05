@@ -18,7 +18,12 @@ export default function Finish(props) {
         Finalize o <b>seu Desafio</b>
       </p>
 
-      <img src={Upload} alt="upload" className="finish__upload" />
+      <div>
+        <label htmlFor="fileUpload">
+          <img src={Upload} alt="upload" className="finish__upload" />
+        </label>
+        <input hidden id="fileUpload" type="file" accept="video/*,audio/*" />
+      </div>
 
       <p className="finish__details">
         Envie seu arquivo de Audio, Vídeo ou Texto

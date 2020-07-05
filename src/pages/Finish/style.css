@@ -11,7 +11,7 @@
 }
 
 .finish__upload {
-  width: 20%;
+  width: 100%;
   margin-bottom: 20px;
   cursor: pointer;
 }
@@ -23,5 +23,5 @@
 }
 
 .finish__image {
-  margin-top: -125px;
+  margin-top: -145px;
 }

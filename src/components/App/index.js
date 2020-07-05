@@ -10,12 +10,12 @@ import Footer from '../Footer';
 
 export default function App() {
   return (
-    <Container>
-      <BrowserRouter>
+    <BrowserRouter>
+      <Container>
         <Topbar />
         <Routes />
         <Footer />
-      </BrowserRouter>
-    </Container>
+      </Container>
+    </BrowserRouter>
   );
 }

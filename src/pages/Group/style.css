@@ -22,7 +22,6 @@
   padding: 4px;
   font-size: 20px;
   color: #05311a;
-
 }
 
 .student__number {
@@ -50,4 +49,8 @@
   border-radius: 7px;
   opacity: 0.72;
   margin-right: 10px;
+}
+
+input[type='number']::-webkit-inner-spin-button {
+  -webkit-appearance: none;
 }

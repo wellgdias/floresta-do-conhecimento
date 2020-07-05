@@ -9,10 +9,11 @@ export default function Complete() {
       </p>
 
       <p className="finish__details">
-        Agora é só aguardar que teremos aquela bela nota para ajudar no semestre
+        Agora é só aguardar que teremos alguns pontos para ajudar na nota
+        semestral
       </p>
 
-      <img src={Jovens} alt="Jovens comemorando" className="finish__image"/>
+      <img src={Jovens} alt="Jovens comemorando" className="finish__image" />
     </div>
   );
 }

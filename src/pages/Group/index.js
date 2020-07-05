@@ -52,16 +52,6 @@ export default function Home() {
         <input type="text" className="student__room" placeholder="Sala" />
         <input type="number" className="student__year" placeholder="Ano" />
       </div>
-      <div className="group__student">
-        <p className="student__number">5</p>
-        <input
-          type="text"
-          className="student__name"
-          placeholder="Informe o nome do Aluno"
-        />
-        <input type="text" className="student__room" placeholder="Sala" />
-        <input type="number" className="student__year" placeholder="Ano" />
-      </div>
 
       <Link to="/desafios">
         <button className="button">Confirmar</button>

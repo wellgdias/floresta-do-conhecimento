@@ -6,7 +6,9 @@ import './style.css';
 export default function Footer() {
   return (
     <footer className="footer">
-      <img src={Logo} alt="logo arvore" />
+      <div className="footer__image">
+        <img src={Logo} alt="logo arvore" />
+      </div>
     </footer>
   );
 }
